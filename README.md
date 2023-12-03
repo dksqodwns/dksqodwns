@@ -2,7 +2,8 @@
   <h1>안녕하세요.</h1>
   <p>저는 웹 개발을 하고 있는 안병준입니다. 백엔드 개발을 주로 공부하고 있어요.</p>
 </div>
-
+<br>
+<br>
 <div align='center' style="margin-bottom: 20px;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=dksqodwns" alt="Byeongjun's GitHub stats" style="margin-right: 10px;"/>
@@ -11,7 +12,8 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abj13" alt="Baek Joon Algorithm Tier"/>
   </div>
 </div>
-
+<br>
+<br>
 <div align="center" style="margin-bottom: 20px;">
   <h3>🛠 Tech Stack 🛠</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -23,7 +25,8 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   </div>
 </div>
-
+<br>
+<br>
 <div align="center" style="margin-bottom: 20px;">
   <h2>📫 Contact</h2>
   <a href="https://blog.naver.com/abj13" target="_blank">
