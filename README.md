@@ -7,7 +7,7 @@
 
 [![Baek Joon Algorithm Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=abj13)](https://solved.ac/{abj13})
 
-  <div align='center'>
+  <div>
     <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
       <div>
         <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
