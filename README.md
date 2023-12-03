@@ -27,7 +27,7 @@
 <div align="center" style="margin-bottom: 20px;">
   <h2>📫 Contact</h2>
   <a href="https://blog.naver.com/abj13" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.instagram.com/dksqodwns" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
