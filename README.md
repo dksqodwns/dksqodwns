@@ -2,7 +2,9 @@
 <h1>안녕하세요. 저는 웹 개발을 하고있는 안병준입니다. 백엔드 개발을 주로 공부하고 있어요.</h1>
 </div>
 
-[![https://solved.ac/profile/abj13](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Byeongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dksqodwns)](https://github.com/anuraghazra/github-readme-stats)
+
+[![BackJun Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{abj13})
 
 <h2>💻</h2>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
