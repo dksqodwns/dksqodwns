@@ -4,8 +4,12 @@
 </div>
 
 <div align='center' style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dksqodwns" alt="Byeongjun's GitHub stats" style="margin-right: 10px;"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abj13" alt="Baek Joon Algorithm Tier"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=dksqodwns" alt="Byeongjun's GitHub stats" style="margin-right: 10px;"/>
+  </div>
+  <div>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abj13" alt="Baek Joon Algorithm Tier"/>
+  </div>
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
