@@ -4,7 +4,7 @@
 
 [![Byeongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dksqodwns)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Baek Joon Algorithm Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={abj13})](https://solved.ac/{abj13})
+[![Baek Joon Algorithm Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=abj13)](https://solved.ac/{abj13})
 
 <h2>💻</h2>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
