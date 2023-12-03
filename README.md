@@ -1,5 +1,5 @@
 <div align='center' style="margin-bottom: 20px;">
-  <h1>안녕하세요.</h1>
+  <h1>Hi There!</h1>
   <p>저는 웹 개발을 하고 있는 안병준입니다. 백엔드 개발을 주로 공부하고 있어요.</p>
 </div>
 <br>
@@ -15,7 +15,7 @@
 <br>
 <br>
 <div align="center" style="margin-bottom: 20px;">
-  <h3>🛠 Tech Stack 🛠</h3>
+  <h2>🛠 Tech Stack 🛠</h2>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
