@@ -7,29 +7,27 @@
 
 [![Baek Joon Algorithm Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=abj13)](https://solved.ac/{abj13})
 
-<h2>💻</h2>
-<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
-<ul>
-  <li>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nest.js&logoColor=white"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-  </li>
-</ul>
-
+  <div align='center'>
+    <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+      </li>
+      <div>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nest.js&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+      </div>
+  </div>
 
 <h2>📫 Contact</h2>
 <ul>
