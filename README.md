@@ -35,9 +35,11 @@
 <!--   <li>LinkedIn: <a href="LinkedIn 프로필 링크">LinkedIn 프로필</a></li> -->
   <li>개인 웹사이트: <a href="https://blog.naver.com/abj13">yourwebsite.com</a></li>
 </ul>
+<br>
+<br>
+<br>
 
-
-<div align=center>
+<div>
   <a href="https://blog.naver.com/abj13" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a>
   <a href="https://www.instagram.com/dksqodwns" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
